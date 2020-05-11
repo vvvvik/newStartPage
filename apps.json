@@ -9,7 +9,7 @@
         {"name":"Lidarr","url":"music.example.com","icon":"music"},
         {"name":"Minio","url":"minio.example.com","icon":"server"},
         {"name":"Mylar","url":"comics.example.com","icon":"book-open-variant"},
-        {"name":"Nextcloud","url":"cloud.example.com","icon":"weather-cloudy"},
+        {"name":"Nextcloud","url":"nextcloud.nova7.me","icon":"weather-cloudy"},
         {"name":"Ombi","url":"request.example.com","icon":"file-find-outline"},
         {"name":"Pi-hole","url":"pihole.example.com","icon":"do-not-disturb"},
         {"name":"Plex","url":"play.example.com","icon":"plex"},
